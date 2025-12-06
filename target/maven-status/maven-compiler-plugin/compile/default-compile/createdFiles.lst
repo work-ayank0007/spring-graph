@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\entity\employeeEntity.class
+com\example\demo\entity\employeeEntity$employeeEntityBuilder.class
+com\example\demo\mapper\employeeMapper.class
+com\example\demo\repository\employeeRepository.class
